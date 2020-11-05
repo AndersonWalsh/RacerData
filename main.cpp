@@ -1,5 +1,5 @@
 /* Anderson Walsh
- * Lab 3: main.cpp
+ * main.cpp
  * Act on race data
 */
 
